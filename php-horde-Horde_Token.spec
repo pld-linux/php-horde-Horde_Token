@@ -11,7 +11,7 @@ License:	LGPL
 Group:		Development/Languages/PHP
 Source0:	http://pear.horde.org/get/%{pearname}-%{version}.tgz
 # Source0-md5:	83680b693707b7a90dc98bfd414a4a85
-URL:		http://pear.horde.org/package/Horde_Token/
+URL:		https://github.com/horde/horde/tree/master/framework/Token/
 BuildRequires:	php-channel(pear.horde.org)
 BuildRequires:	php-packagexml2cl
 BuildRequires:	php-pear-PEAR
