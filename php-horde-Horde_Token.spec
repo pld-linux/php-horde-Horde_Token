@@ -5,12 +5,12 @@
 %include	/usr/lib/rpm/macros.php
 Summary:	%{pearname} - Horde Token API
 Name:		php-horde-Horde_Token
-Version:	1.0.1
+Version:	1.1.0
 Release:	1
 License:	LGPL
 Group:		Development/Languages/PHP
 Source0:	http://pear.horde.org/get/%{pearname}-%{version}.tgz
-# Source0-md5:	d5a78a53b38c54d3be02e3d0e0c092af
+# Source0-md5:	d0955efff9a94458cab7466c13b4b79b
 URL:		https://github.com/horde/horde/tree/master/framework/Token/
 BuildRequires:	php-channel(pear.horde.org)
 BuildRequires:	php-packagexml2cl
