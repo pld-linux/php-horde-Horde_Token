@@ -2,7 +2,6 @@
 # - system locale dir
 %define		status		stable
 %define		pearname	Horde_Token
-%include	/usr/lib/rpm/macros.php
 Summary:	%{pearname} - Horde Token API
 Name:		php-horde-Horde_Token
 Version:	1.1.7
